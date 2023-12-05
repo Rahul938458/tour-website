@@ -1,0 +1,170 @@
+@media(max-width:768px)
+{ 
+    .banrow{
+        margin-top: -73px;
+        background-color: white;
+    }
+.container-fluid1{
+    background-color: white;
+}
+.Bannercontent{
+    font-size: 38px;
+    position: absolute;
+    width: 100%;
+    margin-left: -7px;
+}
+
+.Bannercontent1{
+padding-top: 122px;
+  width: 100%;
+  position: absolute;
+  margin-left: -7px;
+}
+.Bannertitle{
+    padding-left: 0px;
+}
+ 
+.bannerimg{
+    display: none;
+}
+.Search{
+  width: 0px;
+}
+.Search2{
+   margin-left: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.Search2-1{
+    padding-top: 16px;
+}
+
+/* destination */
+.row111{
+  margin-left: -11px;
+  margin-top: -169px;
+  width: 307px;
+
+}
+.Destination{
+    margin-top: 872px;
+}
+.newsCard{
+    width: 340px;
+}
+/* popular tour */
+.Destination1{
+    margin-top: 93px;
+}
+.popular1{
+    margin-left: -556px;
+}
+.newsCapt-title{
+    margin-top: -123px;
+}
+/* freshly added */
+.destination1{
+    margin-top: 3px;
+}
+.fresh12{
+    margin-left: -585px;
+}
+/* hotel room */
+.destination2{
+    margin-top: -840px;
+}
+.item2{
+    margin-bottom: 49px;
+}
+.allrooms{
+    margin-left: -579px;
+}
+/* goa */
+.goa-img1{
+    width: 331px;
+    height: 284px;
+}
+.Goatitle_cap{
+    font-size: 25px;
+}
+.Goa_cap{
+    width: 101.5%;
+}
+.Goacontent_cap{
+    font-size: 16px;
+}
+.col1{
+    margin-top: 52px;
+    border-radius: 30px;
+    margin-left: 0px;
+    height: 340px;
+}
+.g_but2{
+    margin-top: 53px;
+  width: 300px;
+  margin-right: -100px;
+}
+
+
+/* Start popular */
+.news{
+    width: 331px;
+    height: 539px;
+}
+/* test */
+
+.test{
+height: 1000px;
+}
+.testcont{
+    font-size: 38px;
+}
+.bio{
+    margin-right: 0px;
+}
+
+/* before footer */
+.col112{
+    padding-top: 282px;
+}
+.befo2{
+    margin-top: 64px;
+}
+.befo1-1{
+  padding-left: 68px;
+  margin-top: -35px;
+}
+/* footer after */
+.foot15-2{
+    padding-left: 2px;
+}
+
+.row51{
+    margin-left: -74px;
+}
+.foot20-1{
+    padding: 0px;
+}
+.foot13-1-1{
+    margin-bottom: -23px;
+}
+.foot13-2-1{
+    padding-top: 2px;
+    margin-bottom: 34px;
+}
+/* endfooter */
+.foot20{
+    padding-left: 31px;
+}
+.foot20-2{
+    padding-left: 13px;
+}
+.copyright{
+    padding-top: 17px;
+}
+.foot20-1-1{
+    font-size: 9px;
+}
+
+
+}
